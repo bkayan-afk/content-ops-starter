@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Effects
+    subtitle: Effects of The relaxation aura
     items:
       - type: FeaturedItem
         title: Night Peace
