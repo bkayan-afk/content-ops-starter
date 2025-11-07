@@ -216,7 +216,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: cloud-in-lotus-pose-meditating-2025-11-05-04-40-43-utc.mp4
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
