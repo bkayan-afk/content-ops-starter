@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Built for Work and Meditation
         text: >
           Body: Long and smooth transitions create a steady background for deep
           concentration. Minimal visuals reduce noise so audio can guide your
