@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Slow the Mind
-        subtitle: The Job Stuff
+        subtitle: Steady the Breath
         text: >
           Body: Soft visuals and unobtrusive soundscapes gently gather your
           attention. 528Hz-inspired tones and nature layers help you leave the
