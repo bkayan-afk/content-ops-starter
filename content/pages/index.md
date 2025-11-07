@@ -15,7 +15,7 @@ sections:
       lo-fi/ambient music, and gentle breath guidance, we help you slow down,
       fall asleep easier, and stay focused through the day.
     actions:
-      - label: Get starte
+      - label: Our Channel
         altText: ''
         url: /
         showIcon: false
