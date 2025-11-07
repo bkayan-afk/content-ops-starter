@@ -252,14 +252,9 @@ sections:
     subtitle: Shhhhhh! dont wake Billy up he is sleeping
     text: >
       Billy his sleeping right now. He is know slowing his mind with Relaxations
-      Aura. Don't bother him.
-
-
-      He is not overthinking because of our music. He is having his sweet little
-      dreams and relaxing,
-
-
-      if you want to be like Billy, Sleep With Relaxations Aura's music.
+      Aura. Don't bother him.He is not overthinking because of our music. He is
+      having his sweet little dreams and relaxing, if you want to be like Billy,
+      Sleep With Relaxations Aura's music.
     actions: []
     media:
       title: Title of the video
