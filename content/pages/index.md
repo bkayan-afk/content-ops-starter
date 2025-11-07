@@ -378,7 +378,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: The best relaxation
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: D**** J****on
         text: |
           i think its just really good cuz i sleep 90% of the time 
