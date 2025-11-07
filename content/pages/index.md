@@ -208,7 +208,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: The great little billy
     text: >+
       He is a sleepy little cloud that listens to Relaxations Aura and falls a
       sleep. Billy can't usually sleep without Relaxations aura
