@@ -250,11 +250,16 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Shhhhhh! dont wake Billy up he is sleeping
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Billy his sleeping right now. He is know slowing his mind with Relaxations
+      Aura. Don't bother him.
+
+
+      He is not overthinking because of our music. He is having his sweet little
+      dreams and relaxing,
+
+
+      if you want to be like Billy, Sleep With Relaxations Aura's music.
     actions: []
     media:
       title: Title of the video
