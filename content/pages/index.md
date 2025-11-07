@@ -243,7 +243,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Billy Goes to sleep
       color: text-dark
       styles:
         self:
