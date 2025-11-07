@@ -402,7 +402,7 @@ sections:
         text: |
           i think its just really good cuz i sleep 90% of the time 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Ekran Resmi 2025-11-07 17.44.06.png
           altText: Maria Walters
           styles:
             self:
