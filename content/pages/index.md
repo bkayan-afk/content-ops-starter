@@ -64,7 +64,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Night Peace
         subtitle: Numbers Done
         text: >
           Dim visuals and calm ambience prepare the mind to drift. Waves, rain,
