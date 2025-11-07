@@ -118,11 +118,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >+
-          Body: Long, even loops and smooth transitions create a steady
-          background for deep concentration. Minimal visuals reduce noise so
-          audio can guide your state through work, practice, or pause.
-
+        text: >
+          Body: Long and smooth transitions create a steady background for deep
+          concentration. Minimal visuals reduce noise so audio can guide your
+          state through work.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
