@@ -141,7 +141,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: WHAT IS THE BEST EFFECTS
+      label: BEST EFFECTS
       color: text-primary
       styles:
         self:
