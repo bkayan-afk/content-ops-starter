@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to Relaxation Aura Studio—welcome to our community! This is your
+      space to leave the day’s stress at the door and step into deep sleep, a
+      calm mind, and a balanced mood. With nature sounds, rain and ocean waves,
+      white noise, lo-fi and ambient textures, gentle meditation music, and
+      guided breathing, we help you slow your mind, fall asleep more easily, and
+      stay focused during the day.
     actions:
       - label: Get started
         altText: ''
