@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Our Channel
         altText: ''
-        url: /
+        url: ',www.youtube.com/@RelaxationAuraStudio'
         showIcon: false
         icon: arrowRight
         iconPosition: right
