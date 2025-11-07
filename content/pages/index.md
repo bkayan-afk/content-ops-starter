@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Night Peace
-        subtitle: Numbers Done
+        subtitle: A Gentle Path to Sleep
         text: >
           Dim visuals and calm ambience prepare the mind to drift. Waves, rain,
           or soft piano slow your breath and ease the heart into deeper rest.
