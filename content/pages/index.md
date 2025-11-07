@@ -66,10 +66,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Dim visuals and calm ambience prepare the mind to drift. Waves, rain,
+          or soft piano slow your breath and ease the heart into deeper rest.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
