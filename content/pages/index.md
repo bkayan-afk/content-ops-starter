@@ -94,10 +94,14 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Body: Relaxation Aura gently gathers your attention with soft visuals
+          and unobtrusive soundscapes. 528Hz-inspired compositions, light lo-fi
+          textures, and nature layers help you leave the rush behind and
+          rediscover your breathing rhythm. Minimal motion on screen and a
+          smooth, continuous mix turn even a short pause into meaningful
+          restoration.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
