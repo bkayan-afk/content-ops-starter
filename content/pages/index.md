@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: All-Day Focus
         subtitle: Built for Work and Meditation
         text: >
           Body: Long and smooth transitions create a steady background for deep
