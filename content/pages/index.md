@@ -141,7 +141,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: WHAT IS THE BEST EFFECTS
       color: text-primary
       styles:
         self:
