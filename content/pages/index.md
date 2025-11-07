@@ -216,7 +216,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: 'https://youtube.com/shorts/2gvTsFIfecM?feature=share'
+      url: 'https://youtu.be/WnJZ_1xXXH8'
       controls: false
       aspectRatio: '16:9'
       styles:
