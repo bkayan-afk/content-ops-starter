@@ -94,14 +94,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >+
-          Body: Relaxation Aura gently gathers your attention with soft visuals
-          and unobtrusive soundscapes. 528Hz-inspired compositions, light lo-fi
-          textures, and nature layers help you leave the rush behind and
-          rediscover your breathing rhythm. Minimal motion on screen and a
-          smooth, continuous mix turn even a short pause into meaningful
-          restoration.
-
+        text: >
+          Body: Soft visuals and unobtrusive soundscapes gently gather your
+          attention. 528Hz-inspired tones and nature layers help you leave the
+          rush behind and find a calm breathing rhythm.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
