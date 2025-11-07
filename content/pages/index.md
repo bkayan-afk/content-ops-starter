@@ -399,10 +399,8 @@ sections:
       - title: The best relaxation
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          i think its just really good cuz i sleep 90% of the time 
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
