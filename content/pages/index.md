@@ -91,7 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Slow the Mind
         subtitle: The Job Stuff
         text: >
           Body: Soft visuals and unobtrusive soundscapes gently gather your
