@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: THE BEST RELAXATION YOU WILL EVER FEEL
       color: text-primary
       type: Badge
     elementId: ''
