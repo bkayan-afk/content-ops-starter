@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Relaxation Aura
+      text: The Calmest Relaxation
       color: text-dark
       type: TitleBlock
     subtitle: ''
